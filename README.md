@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miamiot769
 - ✉️ You can contact me at miamiot50@gmail.com
 - 💡 Study in Bachelor of Information Technology
-- 🌱 I’m currently learning Phyton, JavaScript, Reactjs.
+- 🌱 I’m currently learning Phyton, JavaScript, Reactjs
 - 💞️ I’m looking for internship Front End Development
 
 <!---
